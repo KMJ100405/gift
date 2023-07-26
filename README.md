@@ -1,2 +1,2 @@
-# gift
+# gifted
 설명
